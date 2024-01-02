@@ -7,5 +7,5 @@ def typewriter(text, speed):
     print("")
 
 # Example
-# Speed in ms
+# Speed in seconds
 typewriter("Example Text", 0.1)
